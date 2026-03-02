@@ -1,3 +1,4 @@
+const input = document.getElementById('country-input');
 const spinner = document.getElementById('loading-spinner');
 const countryInfo = document.getElementById('country-info');
 const borderingCountries = document.getElementById('bordering-countries');
